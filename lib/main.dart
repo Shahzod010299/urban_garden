@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:urban_garden/configs/routes.dart';
+import 'package:urban_garden/constants/navigation.dart';
 import 'package:urban_garden/screens/splash_page.dart';
 
 void main() {
@@ -13,23 +14,18 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MultiBlocProvider(
-      providers: [
-
-      ],
-      child: MaterialApp(
-        title: 'Flutter Demo',
-        theme: ThemeData(
-          colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
-          useMaterial3: true,
-        ),
-        home: const SplashPage(),
-        onGenerateRoute: generateRoutes,
+    return MaterialApp(
+      title: 'Flutter Demo',
+      debugShowCheckedModeBanner: false,
+      theme: ThemeData(
+        colorScheme: ColorScheme.fromSeed(seedColor: Colors.green),
+        useMaterial3: true,
       ),
+      initialRoute: Navigation.SplashScreen,
+      onGenerateRoute: generateRoutes,
     );
   }
 }
-
 
 
 class MyBlocObserve extends BlocObserver {
