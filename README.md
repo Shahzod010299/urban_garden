@@ -12,6 +12,6 @@ This project is a starting point for a Flutter application.
 
 # Team 
 Sardor CEO, <br/>
-Makhuba Q&A
-Shakhzod Programmer
+Makhuba Q&A, <br/>
+Shakhzod Programmer, <br/>
 Alisher Backend
