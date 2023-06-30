@@ -8,7 +8,7 @@
 <br/> GROW YOUR CROP ON YOUR PHONE <br/>
 
 
-# Team 
+# 🧑‍💻 Team 
 Sardor CEO, <br/>
 Makhuba Q&A, <br/>
 Shakhzod Programmer, <br/>
