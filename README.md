@@ -11,6 +11,9 @@
 This project is a starting point for a Flutter application.
 
 
+<head>
+  <link атрибуты>
+</head>
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
