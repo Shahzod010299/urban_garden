@@ -4,7 +4,7 @@
 
 <br/>
  <p>Figma ui link</p>
-      <a href = "https://www.figma.com/file/DYKzqec29IZ482tzjoEiIb/UrbanGarden?type=design&node-id=0%3A1&mode=design&t=8hvyXu38T57ojzmI-1" target = "_self">Tutorials Point</a>
+      <a href = "https://www.figma.com/file/DYKzqec29IZ482tzjoEiIb/UrbanGarden?type=design&node-id=0%3A1&mode=design&t=8hvyXu38T57ojzmI-1" target = "_self">Link</a>
       
 <br/> 
 <br/>
