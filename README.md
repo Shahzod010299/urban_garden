@@ -2,9 +2,7 @@
 
 <img src="https://github.com/Shahzod010299/urban_garden/assets/79000077/5af27674-2619-40ad-8d43-ccaf3122137e" width="200">
  <br/> 
- <a href = "https://www.figma.com/file/DYKzqec29IZ482tzjoEiIb/UrbanGarden?type=design&node-id=0%3A1&mode=design&t=8hvyXu38T57ojzmI-1" target = "_self">Link</a>
-      
-<br/> 
+
 <br/>
 # info
 <br/> GROW YOUR CROP ON YOUR PHONE <br/>
