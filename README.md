@@ -20,11 +20,16 @@ Shakhzod Programmer, <br/>
 Alisher Backend
 
 # Screeshots
-<img width="200" alt="image" src="https://github.com/Shahzod010299/urban_garden/assets/79000077/1f184b62-6d8d-461b-b9c7-6f2ccc7e6f09">
-<img width="200" alt="image" src="https://github.com/Shahzod010299/urban_garden/assets/79000077/98770c71-b6a2-4c44-8905-6175528ea96f">
-<img width="200" alt="image" src="https://github.com/Shahzod010299/urban_garden/assets/79000077/dd552c26-81e7-4ab7-88ab-d0cc984f0763">
-<img width="200" alt="image" src="https://github.com/Shahzod010299/urban_garden/assets/79000077/6c28af2b-f088-4ee0-b231-35c3fd0ecfbe">
-<img width="200" alt="image" src="https://github.com/Shahzod010299/urban_garden/assets/79000077/caecaa2c-3d62-4fe5-9d3e-517f288f6aa8">
+<img width="200" alt="image" src="https://github.com/Shahzod010299/urban_garden/assets/79000077/a984d1c0-7652-45ba-aeac-0c4a8b1d280a">
+
+<img width="200" alt="image" src="https://github.com/Shahzod010299/urban_garden/assets/79000077/a32b35ba-fd39-440d-9947-5327a952b48d">
+
+<img width="200" alt="image" src="https://github.com/Shahzod010299/urban_garden/assets/79000077/642f8afa-f011-4f3f-b72d-42ea995579f1">
+
+<img width="200" alt="image" src="https://github.com/Shahzod010299/urban_garden/assets/79000077/3aeef728-ce0d-4907-b721-d00caa7e031d">
+
+<img width="200" alt="image" src="https://github.com/Shahzod010299/urban_garden/assets/79000077/f14d8a10-fa25-4f37-a056-75f5b1ea11f1">
+
 
 
 
