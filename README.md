@@ -1,6 +1,7 @@
 # Urban Garden
 
-<img src="https://github.com/Shahzod010299/urban_garden/assets/79000077/ec755113-7b5a-4b07-98b6-ba6d56bf878f" width="200">
+<img src="https://github.com/Shahzod010299/urban_garden/assets/79000077/5af27674-2619-40ad-8d43-ccaf3122137e" width="200">
+
 
 <br/>
  # Figma ui link
