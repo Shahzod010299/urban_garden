@@ -9,9 +9,9 @@
       
 <br/> 
 <br/>
-## Getting Started 
+# info
 <br/> GROW YOUR CROP ON YOUR PHONE <br/>
-This project is a starting point for a Flutter application.
+
 
 # Team 
 Sardor CEO, <br/>
