@@ -4,7 +4,7 @@
  <br/> 
 
 <br/>
-# info
+# ℹ️ info
 <br/> GROW YOUR CROP ON YOUR PHONE <br/>
 
 
@@ -14,7 +14,7 @@ Makhuba Q&A, <br/>
 Shakhzod Programmer, <br/>
 Alisher Backend
 
-# Screeshots
+# 📺 Screeshots
 <img width="200" alt="image" src="https://github.com/Shahzod010299/urban_garden/assets/79000077/a984d1c0-7652-45ba-aeac-0c4a8b1d280a">
 
 <img width="200" alt="image" src="https://github.com/Shahzod010299/urban_garden/assets/79000077/a32b35ba-fd39-440d-9947-5327a952b48d">
